@@ -1,4 +1,4 @@
-# 🪙 GOLD PRICE ANALYSIS AND PREDICTION
+# 🪙 GOLD STOCK PRICE ANALYSIS AND PREDICTION
 
 ## 📌 OVERVIEW
 This project analyzes historical gold price data to extract trends and forecast future prices using **Prophet**, a powerful time-series forecasting model.
